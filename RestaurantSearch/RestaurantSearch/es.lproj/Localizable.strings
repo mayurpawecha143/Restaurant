@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  RestaurantSearch
+
+  Created by Mayur Pawecha on 12/7/22.
+  
+*/
+
+"restaurants" = "Restaurantes";
+"rating" = "Clasificación";
+"price" = "Precio";
+"call" = "Llamar";
+"open_hours" = "Horarios de apertura";
+"monday" = "Lunes";
+"tuesday" = "Martes";
+"wednesday" = "Miércoles";
+"thursday" = "Jueves";
+"friday" = "Viernes";
+"saturday" = "Sábado";
+"sunday" = "Domingo";
